@@ -1,4 +1,6 @@
 # Curso Git!
  Primeiro repositório do curso Git e GitHub
 
- Respoditório criado durante a aula
+ Respositório criado durante a aula
+ 
+ Essa linha eu adicionei direto no site GitHub
